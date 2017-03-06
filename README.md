@@ -6,7 +6,7 @@ A GUI wrapper for faster rendering computation with Blender 3D via CLI for macOS
 
 This repository is unmaintained as the last update has been released in 2012. There might be a new version in the future with does not rely on a seperate CLI wrapper but instead a native one.
 
-
+![screenshot](screenshot.png)
 
 **Dependencies**
 
