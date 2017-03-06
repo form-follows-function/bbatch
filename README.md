@@ -8,6 +8,7 @@ This repository is unmaintained as the last update has been released in 2012. Th
 
 ![screenshot](screenshot.png)
 
+
 **Dependencies**
 
 bbatch relies on [Pashua](https://www.bluem.net/en/mac/pashua/) by [Carsten Blüm](https://github.com/BlueM), a CLI wrapper for macOS. 
@@ -16,8 +17,8 @@ bbatch relies on [Pashua](https://www.bluem.net/en/mac/pashua/) by [Carsten Blü
 
 
 
-
 **Installation**
+
 Put Pashua.app in the application Folder or Desktop or keep in the same folder as bBatch. To start bBatch, double-click on bBatch.
 
 
