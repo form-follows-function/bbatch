@@ -19,7 +19,7 @@ bbatch relies on [Pashua](https://www.bluem.net/en/mac/pashua/) by [Carsten Blü
 
 **Installation**
 
-Put Pashua.app in the application Folder or Desktop or keep in the same folder as bBatch. To start bBatch, double-click on bBatch.
+Put Pashua.app in the **/Applications** Folder or Desktop or keep it in the same folder as bBatch.
 
 
 
