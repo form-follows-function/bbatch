@@ -1,4 +1,6 @@
-# bbatch
+# DEPRECATED
+
+## bbatch
 
 **About**
 
